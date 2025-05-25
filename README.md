@@ -1,16 +1,71 @@
-# dice_app
+# dice_app 🎲
 
-A new Flutter project.
+A simple and fun Flutter app that simulates rolling dice.  
+Perfect for beginners learning Flutter and mobile app development!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 About
 
-A few resources to get you started if this is your first Flutter project:
+This project is my Flutter implementation of a basic dice roller app. Tap the dice to roll and get a random result, just like rolling real dice!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/) — UI toolkit for building natively compiled apps  
+- [Dart](https://dart.dev/) — Programming language for Flutter
+
+---
+
+## 📱 Features
+
+- Tap on dice images to roll  
+- Generates random numbers simulating dice rolls  
+- Clean and minimal user interface
+
+---
+
+## 📥 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed  
+- A code editor like VS Code or Android Studio  
+- An emulator or physical device to run the app
+
+### How to Run
+
+1. Clone the repository:  
+
+2. Navigate into the project directory:  
+
+3. Get Flutter dependencies:  
+
+4. Run the app:  
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork this repo and add features or fix bugs! Pull requests are welcome.
+
+---
+
+## 📚 Resources
+
+If you're new to Flutter, these will help you get started:  
+- [Flutter Official Docs](https://flutter.dev/docs)  
+- [Write Your First Flutter App (Codelab)](https://flutter.dev/docs/get-started/codelab)  
+- [Flutter Cookbook](https://flutter.dev/docs/cookbook)
+
+---
+
+## 👩‍💻 Author
+
+**Purva Vyawahare**  
+[GitHub Profile](https://github.com/PurvaVyawahare)
+
+---
+
+*Thank you for checking out my app! Have fun rolling the dice! 🎲*
