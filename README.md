@@ -1,4 +1,4 @@
-# dice_app 🎲
+# 🎲 Dice App
 
 A simple and fun Flutter app that simulates rolling dice.  
 Perfect for beginners learning Flutter and mobile app development!
@@ -38,11 +38,27 @@ This project is my Flutter implementation of a basic dice roller app. Tap the di
 
 1. Clone the repository:  
 
+```bash
+git clone https://github.com/purvavyawahare/dice_app.git
+```
+
 2. Navigate into the project directory:  
+
+```bash
+cd dice_app
+```
 
 3. Get Flutter dependencies:  
 
+```bash
+flutter pub get
+```
+
 4. Run the app:  
+
+```bash
+flutter run
+```
 
 ---
 
